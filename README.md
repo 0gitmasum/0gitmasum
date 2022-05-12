@@ -1,31 +1,33 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Kazi Mahbubur Rahman</h1>
+<h1 align="center">Hi <img src="https://github.com/0gitmasum/0gitmasum/blob/main/Wave.gif" height="55px" width="55px">, I'm Mohammad Masum Billah</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+Programmer | Learner | Student
 
 ?></h3>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Javascript**
+
+- 🌱 I’m currently learning **CSS**
+
+- 🌱 I’m currently learning **HTML**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **MahbubBengali@gmail.com**
-
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+- 📫 How to reach me **masumbillahyusuf1621@gmail.com**
 
 ### Connect with me:
 
-[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mohammad Masum Billah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Mohammad Masum Billah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Mohammad Masum Billah | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mohammad Masum Billah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -40,9 +42,7 @@ Programmer | Content Creator | Learner
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
 ### Profile Visitors 
@@ -60,9 +60,9 @@ Programmer | Content Creator | Learner
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
 
 [website]: https://TechHelpBD.com
-[facebook]: https://facebook.com/MahbubDev
-[twitter]: https://twitter.com/mahbubdev
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
+[facebook]: https://www.facebook.com/profile.php?id=100036766350727
+[twitter]: https://twitter.com/masumbillah_99
+[youtube]: https://www.youtube.com/channel/UCv5jSalamgwgoCsPkYutu4g
+[instagram]: https://www.instagram.com/masum.billah1/
+[linkedin]: 
+[telegram]: https://web.telegram.org/k/
