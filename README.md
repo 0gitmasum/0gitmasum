@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Mohammad Masum Billah</h1>
+<h1 align="center">Hi<img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Mohammad Masum Billah</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Learner | Student
@@ -8,6 +8,8 @@ Programmer | Learner | Student
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Javascript**
+
+- 🌱 I’m currently learning **Bootstrap**
 
 - 🌱 I’m currently learning **CSS**
 
@@ -21,7 +23,6 @@ Programmer | Learner | Student
 
 ### Connect with me:
 
-[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mohammad Masum Billah | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
 [<img align="left" alt="Mohammad Masum Billah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mohammad Masum Billah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -43,11 +44,12 @@ Programmer | Learner | Student
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
 <br />
 
-[website]: https://TechHelpBD.com
 [facebook]: https://www.facebook.com/profile.php?id=100036766350727
 [twitter]: https://twitter.com/masumbillah_99
-[youtube]: https://www.youtube.com/channel/UCv5jSalamgwgoCsPkYutu4g
 [instagram]: https://www.instagram.com/masum.billah1/
 [telegram]: https://web.telegram.org/k/
+[youtube]: https://www.youtube.com/channel/UCv5jSalamgwgoCsPkYutu4g
+[linkedin]: https://www.linkedin.com/in/masum-billah-22680423a/
