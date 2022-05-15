@@ -1,12 +1,10 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Mohammad Masum Billah</h1>
 
-<h3 align="center">¯\_(ツ)_/¯
+<h3 align="center">¯\_(ツ)_/¯</h3>
   
-<br />
-  
-Programmer | Learner | Student
+<h3 align="center"> Programmer | Learner | Student </h3>
 
-?></h3>
+<h3 align="center"> ?> </h3>
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -56,4 +54,4 @@ Programmer | Learner | Student
 [instagram]: https://www.instagram.com/masum.billah1/
 [telegram]: https://web.telegram.org/k/
 [youtube]: https://www.youtube.com/channel/UCv5jSalamgwgoCsPkYutu4g
-[telegram]: https://www.linkedin.com/in/masum-billah-22680423a/
+[linkedin]: https://www.linkedin.com/in/masum-billah-22680423a/
