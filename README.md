@@ -1,12 +1,8 @@
 <h1 align="center">Hi, I'm Mohammad Masum Billah</h1>
 
 <!-- <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px"> -->
-
-<h3 align="center">¯\_(ツ)_/¯</h3>
   
-<h3 align="center"> Programmer | Learner | Student </h3>
-
-<h3 align="center"> ?> </h3>
+<h3 align="center">Learner || Developer || Programmer</h3>
 
 - 🔭 I’m currently working on **Web Development**
 
